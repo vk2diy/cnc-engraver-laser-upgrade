@@ -132,8 +132,13 @@ Here's how I set it up.
 
 ## Conclusions
 
- * The laser workflow is much better than the engraving workflow
- * Currently, even though I must admit qualitatively the engraved pieces were slightly nicer (shinier), this difference is not significant and could probably be improved by a second pass.
+ * The laser workflow is much better than the engraving workflow.
+   * Easier workpiece placement
+   * Easier alignment
+   * Faster cycle times (~4x faster)
+   * Much cleaner workspace (once fumes are handled)
+   * Nearly no noise
+ * Currently, even though I must admit qualitatively the engraved pieces are slightly nicer (shinier), this difference is not significant and could probably be improved by a second pass.
  * Any form of CNC laser or milling machine should be of heavy construction, using solid metal or something of similar density, not lightweight structures which are at best useful demonstrations as teaching/learning tools for building confidence in mechatronic systems concepts.
  * The biggest issue remaining is finding a permanent place for the laser in order to pipe the fume hood for fume extraction.
  * To still further improve fume extraction, it should be possible to implement a 'shoe' over the end of the laser to catch fumes as they are generated. This should be a good 3D printing project.
