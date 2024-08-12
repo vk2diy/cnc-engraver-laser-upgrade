@@ -2,7 +2,11 @@
 
 This page provides the notes and narrative regarding my successful August 2024 upgrade of an inexpensive CNC kit.
 
-The precise model was __S3018 CNC Engraving Machine__ from __Vevor__ ([website](https://www.vevor.com.au/s/cnc)).
+The precise model was __S3018 CNC Engraving Machine__ from __Vevor__ ([website](https://www.vevor.com.au/s/cnc)) but there are many models that are similar, some people call them '2030 kits' or something similar, referring to the nominal bed size. Basically they are cheap base-grade CNC platforms, usually without limit switches, homing switches, probes, tool change, covers, alarms, E-stops, interfaces, or enclosures.
+
+My experiences are probably relevant to you if you have any kind of similar system.
+
+In short, I would recommend changing from engraving to laser as it's an excellent upgrade and a process much more suited to lightweight CNC than engraving is.
 
 ## Back story
 
