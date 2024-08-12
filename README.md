@@ -38,6 +38,8 @@ For reference, my solutions were:
    * Run the thing in the day time only, back to back, then put it away to minimize the ire of neighbours
  * GCode hassles:
    * Try various GCode generators until it did what I wanted, then reverse engineer the differences.
+ * Flatness:
+   * Give up on obtaining a flat table and just use an area near the center that was determined 'flat within acceptable tolerance'.
 
 If I were to do consider a similar kit in future, I would anchor it to a piece of solid timber instead of just the aluminium frame, and I would cover it with a box for audio insulation. But basically, I wouldn't buy a kit again, I'd build from scratch because I now have the confidence that would result in a better system.
 
