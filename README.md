@@ -71,6 +71,7 @@ The main problems were as follows:
    * I realised that the primary requirements for the laser mounting were:
      1. Approximately perpendicular to the work surface; and 
      2. Ideally CNC-adjustable height from the surface.
+   * While it was theoretically possible to rip the spindle out entirely and replace it with the laser, this didn't really strike me as a fun exercise and I wasn't sure if I might want to use it in future. Here's an image of a similar system with only laser (no ER-11 spindle). ![image](vevor-laser-only.webp)
    * Because the upper portion of the Z-axis assembly was not really presenting a suitable flush mounting surface, my solution was hacky but effective:
      * First evaluate the recommended height-from-surface from the laser kit (8mm)
      * Next plaster the edge of the laser in double-sided tape 
