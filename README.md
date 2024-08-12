@@ -60,8 +60,8 @@ The main problems were as follows:
 ### Solutions
 
  * __Cable fix__
-   * The suppled cable was a JST-XH 2.54mm series and could not be reserved owing to the polarity fixing pins present on the connectors, ruling out just shoving it in backwards.
-   * Unfortunately, instead of using the cheap connectors (white polymer) they had used expensive connectors (harder polymer with embedded) which was annoying because my standard solution in this case is to rip off part of the XH connector so I can insert the thing backwards.
+   * The suppled cable was a JST-XH 2.54mm series and could not be reserved owing to the polarity fixing fins present on the connectors, ruling out just shoving it in backwards.
+   * Unfortunately, instead of using the cheap connectors (thin white polymer box) they had used expensive connectors (harder polymer with embedded metal pins) which was annoying because my standard solution in this case is to rip off part of the XH connector so I can insert the thing backwards.
    * I therefore tried to hack off the outside of the thing with precision plyers but unfortunately wound up ripping out the central (GND) pin in the process.
    * Finally, I opted to directly solder the cable line to PWM and 12V and instead of demounting the whole boards and unsoldering the connector and replacing it with another 3 pin connector (such as a 2.54mm screw terminal), I just soldered in place and soldered the ground to a nearby connector also exhibiting GND from the same controller.
    * Since the resulting solution was hacky at best, knowing I was never going to further modify or resuscitate this aged controller, I created some ad-hoc cable stress relief using wire ties, some electrical tape stuffed in the voids and a tonne of superglue.
