@@ -6,7 +6,7 @@ The precise model was __S3018 CNC Engraving Machine__ from __Vevor__ ([website](
 
 My experiences are probably relevant to you if you have any kind of similar system.
 
-In short, I would recommend changing from engraving to laser as it's an excellent upgrade and a process much more suited to lightweight CNC than engraving is.
+In short, I would recommend changing from engraving to laser as it's an excellent upgrade and a process much more suited to lightweight CNC machine frames and drive systems than engraving is.
 
 ## Back story
 
